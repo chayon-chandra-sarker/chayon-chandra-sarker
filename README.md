@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayon-chandra-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="chayon-chandra-sarker" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chayon-chandra-sarker" alt="chayon-chandra-sarker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/chayonsarker0" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chayonsarker0?logo=twitter&style=for-the-badge" alt="https://x.com/chayonsarker0" /></a> </p>
