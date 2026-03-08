@@ -13,9 +13,6 @@ Currently, I'm learning and building projects with Next.js, React, and MongoDB.
 My goal is to grow as a professional developer and work with clients worldwide through freelancing platforms like Fiverr.
 
 I love exploring new technologies and improving my development workflow every day.
-
-## 🚀 Languages and Tools
-HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Git | GitHub | VS Code
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chayonsarkerns) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chayon.saker/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chayon11/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/chayonsarker0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chayon438@gmail.com) 
