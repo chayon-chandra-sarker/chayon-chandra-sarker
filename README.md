@@ -1,4 +1,6 @@
-![GitHub Image](https://i.ibb.co/TqK0N7mX/githab.png)
+<p align="center">
+  <img src="https://i.ibb.co/TqK0N7mX/githab.png" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
