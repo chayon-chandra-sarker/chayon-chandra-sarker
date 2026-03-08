@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
-
+## 👤  About Me
 - 🔭 I’m currently working on **React and Next.js projects.**
 
 - 🌱 I’m currently learning **Advanced Next.js and backend basics.**
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love turning ideas into real web applications**
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Languages and Tools
 HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Git | GitHub | VS Code
   
 ## 🌐 Socials:
