@@ -1,4 +1,25 @@
+<h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
+<h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayon-chandra-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="chayon-chandra-sarker" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chayon-chandra-sarker" alt="chayon-chandra-sarker" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/chayonsarker0" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/chayonsarker0?logo=twitter&style=for-the-badge" alt="https://x.com/chayonsarker0" /></a> </p>
+
+- 🔭 I’m currently working on **React and Next.js projects.**
+
+- 🌱 I’m currently learning **Advanced Next.js and backend basics.**
+
+- 👯 💬 Ask me about **React, Next.js, JavaScript, Tailwind CSS**
+
+- 👨‍💻 🌐 Portfolio: [https://web-persona-show.lovable.app/](https://web-persona-show.lovable.app/)
+
+- 📫 How to reach me **chayon438@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A1a_BV99pFgAtsQaCx2wwRJ_bsOgEKqk/view](https://drive.google.com/file/d/1A1a_BV99pFgAtsQaCx2wwRJ_bsOgEKqk/view)
+
+- ⚡ Fun fact **I love turning ideas into real web applications**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chayonsarkerns) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chayon.saker/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chayon11/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/chayonsarker0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chayon438@gmail.com) 
 
