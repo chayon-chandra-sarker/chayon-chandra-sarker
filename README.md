@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
 ## 👤  About Me
-I'm Chayon Sarker, a passionate Frontend Web Developer from Bangladesh.
+I'm Chayon Chandra Sarker, a passionate Frontend Web Developer from Bangladesh.
 I enjoy building modern, responsive, and high-performance web applications.
 
 Currently, I'm learning and building projects with Next.js, React, and MongoDB.
