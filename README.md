@@ -1,3 +1,6 @@
+![My Logo]([https://raw.githubusercontent.com/username/repo/main/logo.png](https://i.ibb.co.com/pjnjFMVx/Gemini-Generated-Image-w4wqvaw4wqvaw4wq.png)
+
+
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
