@@ -1,4 +1,4 @@
-![GitHub Banner](https://i.ibb.co.com/TqK0N7mX/githab.png)
+![GitHub Image](https://i.ibb.co/TqK0N7mX/githab.png)
 
 
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
