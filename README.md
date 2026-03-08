@@ -6,19 +6,13 @@
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
 
 ## 👤  About Me
-- 🔭 I’m currently working on **React and Next.js projects.**
+I'm Chayon Sarker, a passionate Frontend Web Developer from Bangladesh.
+I enjoy building modern, responsive, and high-performance web applications.
 
-- 🌱 I’m currently learning **Advanced Next.js and backend basics.**
+Currently, I'm learning and building projects with Next.js, React, and MongoDB.
+My goal is to grow as a professional developer and work with clients worldwide through freelancing platforms like Fiverr.
 
-- 👯 💬 Ask me about **React, Next.js, JavaScript, Tailwind CSS**
-
-- 👨‍💻 🌐 Portfolio: [https://web-persona-show.lovable.app/](https://web-persona-show.lovable.app/)
-
-- 📫 How to reach me **chayon438@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A1a_BV99pFgAtsQaCx2wwRJ_bsOgEKqk/view](https://drive.google.com/file/d/1A1a_BV99pFgAtsQaCx2wwRJ_bsOgEKqk/view)
-
-- ⚡ Fun fact **I love turning ideas into real web applications**
+I love exploring new technologies and improving my development workflow every day.
 
 ## 🚀 Languages and Tools
 HTML | CSS | JavaScript | React | Next.js | Tailwind CSS | Git | GitHub | VS Code
