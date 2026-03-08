@@ -1,4 +1,6 @@
-![Banner](./githab.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/FkFXx3rf/githab.png"> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
 <h3 align="center">Passionate Frontend Developer building modern web applications</h3>
