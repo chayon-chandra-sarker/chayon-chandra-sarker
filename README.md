@@ -1,4 +1,4 @@
-![My Logo]([https://raw.githubusercontent.com/username/repo/main/logo.png](https://i.ibb.co.com/pjnjFMVx/Gemini-Generated-Image-w4wqvaw4wqvaw4wq.png)
+![GitHub Banner](https://i.ibb.co/WpP4mYBr/githabbanner.png)
 
 
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
