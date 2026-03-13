@@ -40,7 +40,97 @@ I love exploring new technologies and improving my development workflow every da
 ![](https://nirzak-streak-stats.vercel.app/?user=chayon-chandra-sarker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chayon-chandra-sarker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Current Focus
+
+- 🔭 I’m currently working on **React & Next.js Projects**
+- 🌱 I’m currently learning **Next.js, MongoDB & Backend Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS**
+- ⚡ Fun fact: I love building modern UI and learning new technologies
+
+
+## 🚀 Currently Learning
+
+- Next.js
+- TypeScript
+- API Integration
+- Performance Optimization
+
+- ## 🔭 Current Activities
+
+- 🌱 I’m currently learning **Next.js & Advanced React**
+- 👨‍💻 All of my projects are available on **GitHub**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS**
+- 📫 Reach me at: **chayon438@gmail.com**
+- ⚡ Fun fact: I love building clean and responsive UI
+
+- ## 📈 Contribution Graph
+[![Chayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chayon-chandra-sarker&theme=react-dark)](https://github.com/chayon-chandra-sarker)
+
+
+## 💼 Freelancing
+
+- 💻 Frontend Developer on **Fiverr**
+- 🌍 Available for freelance projects
+- 🎨 I build responsive landing pages and modern websites
+
+⭐ If you want to work with me, feel free to contact me.
+
+## 💡 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/chayon-chandra-sarker/chayon-chandra-sarker/blob/output/github-contribution-grid-snake.svg)
+
+## 📌 Featured Projects
+
+🔹 **Baby Kids Store**
+- React + Firebase
+- E-commerce UI
+- Authentication system
+
+🔹 **Marketplace Project**
+- React + MongoDB + Node.js
+- Full-stack web application
+
+- ## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=chayon-chandra-sarker&color=blue)
+
+## 🧑‍💻 Freelance Services
+
+I provide professional **Frontend Web Development Services** including:
+
+- Responsive Website Design
+- React.js Web Applications
+- Landing Page Development
+- Bug Fixing
+- Website UI Improvement
+
+Available on **Fiverr for freelance work.**
+
+
+<p align="center">
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+</p>
+
+## ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Your support helps me grow as a developer.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=chayon-chandra-sarker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 📫 Contact With Me
+
+- 📧 Email: **chayon438@gmail.com**
+- 💼 Fiverr: **Frontend Web Development Services**
+- 💬 LinkedIn: https://www.linkedin.com/in/chayon11
