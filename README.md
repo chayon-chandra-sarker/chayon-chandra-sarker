@@ -76,14 +76,6 @@ I love exploring new technologies and improving my development workflow every da
 
 ⭐ If you want to work with me, feel free to contact me.
 
-## 💡 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/chayon-chandra-sarker/chayon-chandra-sarker/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 Featured Projects
 
