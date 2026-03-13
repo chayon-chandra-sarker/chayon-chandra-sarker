@@ -16,11 +16,11 @@
 
 I'm **Chayon Chandra Sarker**, a passionate **Frontend Web Developer from Bangladesh** 🇧🇩  
 
-I enjoy building **modern, responsive and high-performance web applications**.
+I enjoy building **modern, responsive, and high-performance web applications**.
 
 💡 I love working with modern technologies and continuously improving my development skills.
 
-🎯 My goal is to become a professional developer and work with international clients through freelancing platforms like **Fiverr**.
+🎯 My goal is to become a professional developer and work with international clients through freelancing platforms.
 
 ---
 
@@ -104,7 +104,7 @@ https://web-persona-show.lovable.app/
 
 ## 🛒 Baby Kids Store
 
-Tech: React, Firebase, Tailwind  
+Tech: Next.js, Tailwind  
 Features:
 
 - Authentication system  
@@ -140,8 +140,6 @@ I provide professional **Frontend Development Services**
 ---
 
 # 🌐 Connect With Me
-
-## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chayonsarkerns)
 
