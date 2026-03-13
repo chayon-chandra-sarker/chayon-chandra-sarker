@@ -88,9 +88,6 @@ I love exploring new technologies and improving my development workflow every da
 - React + MongoDB + Node.js
 - Full-stack web application
 
-- ## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=chayon-chandra-sarker&color=blue)
 
 ## 🧑‍💻 Freelance Services
 
