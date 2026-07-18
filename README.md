@@ -1,53 +1,66 @@
-<h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
-<h3 align="center">💻 Full Stack Web Developer | React • Next.js • TypeScript</h3>
+<!-- ====================== Banner ====================== -->
 
 <p align="center">
-  Passionate about building modern, responsive, and scalable web applications.
+  <img src="https://i.ibb.co.com/LDfxXvCT/Gemini-Generated-Image-66swq366swq366sw.png" alt="Chayon Chandra Sarker Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
+
+<h3 align="center">
+Full Stack Web Developer | React • Next.js • TypeScript
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00DCE5&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm **Chayon Chandra Sarker**, a passionate **Full Stack Web Developer** from **Bangladesh 🇧🇩**.
+Hi, I'm **Chayon Chandra Sarker** from **Bangladesh 🇧🇩**
 
-I enjoy creating clean, responsive, and user-friendly web applications using modern technologies.
+💙 Passionate Full Stack Web Developer
 
-- 🌱 Currently learning **Advanced Next.js, PostgreSQL, Prisma & Backend Architecture**
-- 💻 Working with **React, Next.js, TypeScript, Node.js & Express**
-- 🤝 Open to collaborating on Open Source Projects
-- 🎯 Goal: Become a professional Full Stack Developer and work with international clients.
-- ⚡ Fun fact: I enjoy building beautiful UI and solving coding problems.
+🚀 I love building modern, responsive and scalable web applications.
+
+🌱 Currently Learning
+
+- Advanced Next.js
+- TypeScript
+- PostgreSQL
+- Prisma ORM
+- Backend Architecture
+
+🎯 Goal
+
+Become a Professional Full Stack Developer and work with International Clients.
 
 ---
 
 # 🌐 Portfolio
 
-🔗 **Live Website**
+### 🔗 Live Website
 
-👉 [https://web-persona-show.lovable.app/](https://chayonsarker.vercel.app/)
+https://chayonsarker.vercel.app/
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-## 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
----
-
-## ⚙ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" />
 </p>
 
----
-
-## 🛠 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,figma,postman" />
@@ -63,19 +76,20 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 - Next.js
 - Tailwind CSS
+- Express.js
 - MongoDB
-- Express
 
 ### Features
 
-- 🔐 Authentication
-- 🛍 Product Management
-- 📱 Responsive Design
-- ⚡ Fast Performance
+- Authentication
+- Product Management
+- Responsive Design
+- Dashboard
+- API Integration
 
 ---
 
-## 🌐 Marketplace Platform
+## 🌐 Marketplace
 
 **Tech Stack**
 
@@ -87,9 +101,9 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 ### Features
 
 - User Authentication
+- CRUD Operation
 - REST API
 - Responsive UI
-- CRUD Operations
 
 ---
 
@@ -103,9 +117,9 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 ### Features
 
-- Modern UI
 - Responsive Design
-- Dynamic Projects
+- Modern UI
+- Dynamic Project Section
 - Contact Form
 
 ---
@@ -114,19 +128,19 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Top Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -134,7 +148,11 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 # 📈 Contribution Graph
 
-[![Chayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -142,23 +160,20 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/chayon11/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://facebook.com/">
+<a href="https://www.facebook.com/chayonsarkerns">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/chayon.saker/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://x.com/">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:chayon438@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -168,11 +183,11 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 # 💼 Freelance Services
 
-✅ Responsive Website Development
+✅ Responsive Website
 
-✅ React.js Applications
+✅ React.js Development
 
-✅ Next.js Websites
+✅ Next.js Development
 
 ✅ Landing Pages
 
@@ -180,24 +195,28 @@ I enjoy creating clean, responsive, and user-friendly web applications using mod
 
 ✅ API Integration
 
+✅ Website Redesign
+
 ✅ Bug Fixing
 
 ---
 
-# ☕ Support
+# ☕ Support Me
 
-If you like my projects, don't forget to ⭐ my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/chayon-chandra-sarker&theme=tokyonight&row=1&column=7&margin-w=15"/>
 
 </p>
 
-<p align="center">
+---
 
-### Thanks for visiting ❤️
+<h3 align="center">
 
-</p>
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
