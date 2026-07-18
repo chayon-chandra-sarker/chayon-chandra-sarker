@@ -127,11 +127,7 @@ https://chayonsarker.vercel.app/
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=chayon-chandra-sarker&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -139,9 +135,7 @@ https://chayonsarker.vercel.app/
 # 📈 Top Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/chayon-chandra-sarker&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayon-chandra-sarker&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -149,9 +143,7 @@ https://chayonsarker.vercel.app/
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/chayon-chandra-sarker&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayon-chandra-sarker&theme=github-compact" />
 </p>
 
 ---
