@@ -199,12 +199,16 @@ Become a Professional Full Stack Developer and work with International Clients.
 
 # ☕ Support Me
 
-If you like my work, consider giving a ⭐ to my repositories.
-
----
+If you like my work, consider giving a ⭐ to my repositories and following my GitHub journey.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chayon-chandra-sarker&theme=tokyonight&row=1&column=7&margin-w=15&no-bg=true&no-frame=true" />
+  <a href="https://github.com/chayon-chandra-sarker?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/chayon-chandra-sarker">
+    <img src="https://img.shields.io/badge/👤_Follow_Me_on_GitHub-00DCE5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
