@@ -127,14 +127,12 @@ Become a Professional Full Stack Developer and work with International Clients.
 - Contact Form
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chayon-chandra-sarker&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chayon-chandra-sarker&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=chayon-chandra-sarker&theme=github-dark&hide_border=true" />
 </p>
-
----
 
 # 📈 Top Languages
 
@@ -151,27 +149,28 @@ Become a Professional Full Stack Developer and work with International Clients.
 
 ---
 
-# 🌎 Connect With Me
+## 🌎 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/chayon11/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<p align="left">
-  <a href="https://www.facebook.com/chayonsarkerns" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/>
-  </a>
-</p>
+<a href="https://github.com/chayon-chandra-sarker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/chayonsarkerns">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 <a href="https://www.instagram.com/chayon.saker/">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-
 <a href="mailto:chayon438@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
