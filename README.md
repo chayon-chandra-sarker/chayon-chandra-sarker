@@ -155,9 +155,11 @@ https://chayonsarker.vercel.app/
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.facebook.com/chayonsarkerns">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.facebook.com/chayonsarkerns" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/>
+  </a>
+</p>
 
 <a href="https://www.instagram.com/chayon.saker/">
 <img src="https://skillicons.dev/icons?i=instagram" />
