@@ -204,9 +204,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 ---
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/chayon-chandra-sarker&theme=tokyonight&row=1&column=7&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chayon-chandra-sarker&theme=tokyonight&row=1&column=7&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 
 ---
