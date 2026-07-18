@@ -1,102 +1,57 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/FkFXx3rf/githab.png">
-</p>
-
 <h1 align="center">Hi 👋, I'm Chayon Chandra Sarker</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">💻 Full Stack Web Developer | React • Next.js • TypeScript</h3>
 
 <p align="center">
-<a href="https://web-persona-show.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
-<a href="mailto:chayon438@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  Passionate about building modern, responsive, and scalable web applications.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I'm **Chayon Chandra Sarker**, a passionate **Frontend Web Developer from Bangladesh** 🇧🇩  
+I'm **Chayon Chandra Sarker**, a passionate **Full Stack Web Developer** from **Bangladesh 🇧🇩**.
 
-I enjoy building **modern, responsive, and high-performance web applications**.
+I enjoy creating clean, responsive, and user-friendly web applications using modern technologies.
 
-💡 I love working with modern technologies and continuously improving my development skills.
-
-🎯 My goal is to become a professional developer and work with international clients through freelancing platforms.
+- 🌱 Currently learning **Advanced Next.js, PostgreSQL, Prisma & Backend Architecture**
+- 💻 Working with **React, Next.js, TypeScript, Node.js & Express**
+- 🤝 Open to collaborating on Open Source Projects
+- 🎯 Goal: Become a professional Full Stack Developer and work with international clients.
+- ⚡ Fun fact: I enjoy building beautiful UI and solving coding problems.
 
 ---
 
 # 🌐 Portfolio
 
-🔗 **Live Portfolio Website**
+🔗 **Live Website**
 
-https://web-persona-show.lovable.app/
-
----
-
-# 🚀 Current Focus
-
-- 🔭 Working on **React & Next.js Projects**
-- 🌱 Learning **Next.js, MongoDB & Backend Development**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
-- ⚡ Fun fact: I love building clean UI
+👉 [https://web-persona-show.lovable.app/](https://chayonsarker.vercel.app/)
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+## 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ---
 
-### Backend
+## ⚙ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" />
+</p>
 
 ---
 
-### Tools
+## 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=chayon-chandra-sarker&theme=dark&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=chayon-chandra-sarker&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chayon-chandra-sarker&layout=compact&theme=dark)
-
----
-
-# 📈 GitHub Contribution Graph
-
-[![Chayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chayon-chandra-sarker&theme=react-dark)](https://github.com/chayon-chandra-sarker)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify,figma,postman" />
+</p>
 
 ---
 
@@ -104,65 +59,145 @@ https://web-persona-show.lovable.app/
 
 ## 🛒 Baby Kids Store
 
-Tech: Next.js, Tailwind  
-Features:
+**Tech Stack**
 
-- Authentication system  
-- Responsive UI  
-- Product display  
+- Next.js
+- Tailwind CSS
+- MongoDB
+- Express
+
+### Features
+
+- 🔐 Authentication
+- 🛍 Product Management
+- 📱 Responsive Design
+- ⚡ Fast Performance
 
 ---
 
-## 🌐 Marketplace Project
+## 🌐 Marketplace Platform
 
-Tech: React, Node.js, MongoDB  
+**Tech Stack**
 
-Features:
+- React
+- Node.js
+- Express
+- MongoDB
 
-- Full-stack web application  
-- User authentication  
-- API integration  
+### Features
+
+- User Authentication
+- REST API
+- Responsive UI
+- CRUD Operations
+
+---
+
+## 💼 Portfolio Website
+
+**Tech Stack**
+
+- Next.js
+- Tailwind CSS
+- Framer Motion
+
+### Features
+
+- Modern UI
+- Responsive Design
+- Dynamic Projects
+- Contact Form
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Chayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://x.com/">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
 # 💼 Freelance Services
 
-I provide professional **Frontend Development Services**
+✅ Responsive Website Development
 
-✔ Responsive Website Design  
-✔ React.js Web Applications  
-✔ Landing Page Development  
-✔ Bug Fixing  
-✔ Website UI Improvement  
+✅ React.js Applications
 
-💻 Available for freelance work on **Fiverr**
+✅ Next.js Websites
+
+✅ Landing Pages
+
+✅ Dashboard UI
+
+✅ API Integration
+
+✅ Bug Fixing
 
 ---
 
-# 🌐 Connect With Me
+# ☕ Support
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chayonsarkerns)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chayon.saker)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayon11)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chayonsarker0)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chayon438@gmail.com)
+If you like my projects, don't forget to ⭐ my repositories.
 
 ---
 
 <p align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
----
+<p align="center">
 
-# ☕ Support Me
+### Thanks for visiting ❤️
 
-If you like my work, consider giving a ⭐ to my repositories.
-
----
-
-![](https://visitcount.itsvg.in/api?id=chayon-chandra-sarker&icon=0&color=0)
+</p>
