@@ -40,11 +40,15 @@ Become a Professional Full Stack Developer and work with International Clients.
 
 # 🌐 Portfolio
 
-### 🔗 Live Website
+<p align="center">
+  <a href="https://chayonsarker.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-00DCE5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-https://chayonsarker.vercel.app/
-
----
+<p align="center">
+  <b>✨ Explore my projects, skills, and development journey ✨</b>
+</p>
 
 # 🚀 Tech Stack
 
