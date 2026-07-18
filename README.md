@@ -135,9 +135,8 @@ https://chayonsarker.vercel.app/
 # 📈 Top Languages
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=chayon-chandra-sarker
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chayon-chandra-sarker&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
